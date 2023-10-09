@@ -1,0 +1,2 @@
+Invoking command in '/home/user/ros2_ws/src/merge_arrays/build/merge_arrays': /usr/bin/cmake /home/user/ros2_ws/src/merge_arrays -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/src/merge_arrays/install/merge_arrays
+Invoked command in '/home/user/ros2_ws/src/merge_arrays/build/merge_arrays' returned '1': /usr/bin/cmake /home/user/ros2_ws/src/merge_arrays -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/src/merge_arrays/install/merge_arrays
